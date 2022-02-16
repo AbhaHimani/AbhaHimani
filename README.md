@@ -4,7 +4,7 @@
  
 - 👩‍🎓I am a Computer Engineering Sophomore at Thapar Institute of Engineering and Technology.
 - 🤔 Would love to seek help and advice related to Blockchain and Algorithms
-- 🔭 I’m currently working on my Django and basic data analysis :grin:
+- 🔭 I’m currently working on Backend Web Development and DS-Algo :grin:
 - 💬 Ask me about anything, I am happy to help :smile:
 
 **Languages, Tools and Technologies:**
