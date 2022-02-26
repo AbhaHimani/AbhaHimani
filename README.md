@@ -17,7 +17,9 @@ https://abha-himani-resume-portfolio.netlify.app/
 <a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
+<a href="#" title="BootStrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="CSS3" width="40px" height="40px"></a>
+<a href="#" title="BootStrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="Mongodb" width="40px" height="40px"></a>
+<a href="#" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width="40px" height="40px"></a>
 <a href="https://nodejs.org" title="NODE JS"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="CSS3" width="40px" height="40px"></a>
 <a href="https://reactjs.org/" title="React.js"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg"  alt="ReactJS" width="40px" height="40px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"></a>
